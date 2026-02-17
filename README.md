@@ -3,6 +3,10 @@
 A starter template for building browser extension wallets with the [Tether Wallet Development Kit (WDK)](https://docs.wallet.tether.io/sdk/get-started). Clone, customize, and ship your own self-custodial wallet.
 
 <p align="center">
+  <img src="docs/showcase.gif" alt="Showcase" width="600" />
+</p>
+
+<p align="center">
   <img src="docs/create-new-wallet.png" alt="Create new wallet" width="250" />
   <img src="docs/dashboard.png" alt="Wallet dashboard" width="250" />
   <img src="docs/switch-network.png" alt="Network switcher" width="250" />
@@ -307,7 +311,16 @@ npm test
 
 Apache-2.0 - See [LICENSE](LICENSE) for details.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Support
+
+For support, please open an issue on the GitHub repository.
+
 ## Additional Resources
 
 - **[WDK Documentation](https://docs.wallet.tether.io)** - Wallet Development Kit guides
 - **[WXT Documentation](https://wxt.dev/)** - Web Extension Framework
+- **[WDK Wallet Cosmos](https://github.com/base58-io/wdk-wallet-cosmos)** - A simple and secure package to manage BIP-44 wallets for Cosmos-compatible blockchains.

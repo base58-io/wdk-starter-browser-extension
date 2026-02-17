@@ -1,5 +1,5 @@
 {
-  "name": "@base58/wdk-starter-browser-extension",
+  "name": "@base58-io/wdk-starter-browser-extension",
   "description": "A browser extension starter template for the WDK ecosystem.",
   "keywords": [
     "wdk",
@@ -7,7 +7,7 @@
     "browser",
     "extension"
   ],
-  "author": "Base58 <https://base58.io> (contact@base58.io)",
+  "author": "Base58 <contact@base58.io> (https://base58.io)",
   "license": "Apache-2.0",
   "type": "module",
   "repository": {
